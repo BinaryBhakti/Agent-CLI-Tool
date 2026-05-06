@@ -149,7 +149,7 @@ A typical website-clone run looks like:
 ## Submission
 
 - **GitHub repo:** https://github.com/BinaryBhakti/Agent-CLI-Tool
-- **Demo video (2–3 min):** _add your link_
+- **Demo video (2–3 min):** https://youtube.com/shorts/Ycmp2Y-gJlI?si=WfUsB6IeGOWHkSBa
 
 ## License
 
